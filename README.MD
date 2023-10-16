@@ -3,7 +3,7 @@
 
 ## language Tech
 
-**Server:** Pyton
+**Server:** Python
 
 # About
 - Complete beginner to intermediate Python Programmer
