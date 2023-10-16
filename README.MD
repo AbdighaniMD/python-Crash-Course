@@ -29,16 +29,16 @@
 
 
 # Object-Oriented-programming (OOP)
--Classes/Objects
-    -Constructor
-    -Attributes
-    -Methods
-    -Instances
--Iterators
--Inheritance
--Encapsulation
--Polymorphism
--Abstraction
+- Classes/Objects
+    - Constructor
+    - Attributes
+    - Methods
+    - Instances
+- Iterators
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Abstraction
 
 
 # Lists
