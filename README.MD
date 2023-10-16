@@ -1,7 +1,9 @@
 # **python-Crash-Course**
 
 
-# **Language:** python
+## language Tech
+
+**Server:** Pyton
 
 # About
 - Complete beginner to intermediate Python Programmer
